@@ -9,3 +9,4 @@
 
 #Function 4
 
+Rscript myrscript.R
