@@ -1,1 +1,2 @@
-This will contain my new analytical method!
+#!/bin/bash
+#This will contain my new analytical method!
